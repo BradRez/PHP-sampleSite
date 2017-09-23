@@ -1,0 +1,44 @@
+h2 {
+	color: white;
+}
+
+body {
+
+}
+
+tbody tr:hover {
+    background-color: pink;
+    color: black;
+    cursor: pointer;
+    cursor: hand;
+}
+
+table {
+	margin: auto;
+}
+
+th, tr, td {
+	border: 1px solid crimson;
+}
+
+thead {
+	color: white;
+	background-color: #2a1d19;
+
+}
+
+tbody {
+	color: snow;
+}
+
+tfoot {
+	color: silver;
+	text-align: center;
+	padding: 15px;
+	background: black;
+	color: silver;
+}
+
+li {
+	list-style-type: square;
+}

@@ -1,0 +1,79 @@
+body {
+	margin: auto;
+}
+
+.head {
+	color: white;
+	margin: auto;
+	background-color: #352420;
+	text-align: center;
+}
+
+#name {
+	background-color: #263A40;
+	padding-right: 100px;
+	padding-left: 100px;
+}
+
+#basic {
+	background-color: #FFA859;
+}
+
+#common {
+	background-color: #B29A83;
+}
+
+#core {
+	background-color: #352E27;
+}
+
+#id1 {
+	background-color: #FFDCBC;
+}
+
+#id2 {
+	background-color: ##CE925A;
+}
+
+#id3 {
+	background-color: #7D4312;
+}
+
+#firstLine {
+	width: 1px;
+	background-color: #046a7b;;
+}
+
+
+.content {
+	margin: auto;
+}
+
+h5 {
+	text-align: center;
+	margin: auto;
+}
+
+table {
+	text-align: center;
+	margin: auto;
+
+}
+
+thead {
+	margin: auto;
+}
+
+tbody {
+	text-align: center;
+	height: 
+	
+}
+
+tfoot {
+	text-align: left;
+}
+td {
+	border: 2px solid black;
+	font-size: 15px;
+}
